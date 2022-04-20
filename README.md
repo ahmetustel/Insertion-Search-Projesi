@@ -28,11 +28,11 @@ Veri Yapıları ve Algoritmalar Dersi - Insertion Sort Projesi
 
 ## 3. Time Complexity;
 
-_Average_ Case: Aradığınız değerin **22** olması.
+_Average_ Case: Aradığınız değerin **16** olması.
 
 _Worst_ Case: Aradığınız değerin **6** olması.
 
-_Best_ Case: Aradığınız değerin **2** olması.
+_Best_ Case: Aradığınız değerin **22** olması.
 
 ## 4. Dizi sıralandıktan sonra 18 sayısının case kapsamı;
 
