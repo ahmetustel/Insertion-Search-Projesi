@@ -1,6 +1,6 @@
 # Insertion-Sort-Projesi
 
-Veri Yapıları ve Algoritmalar Dersi - Insertion Search Projesi
+Veri Yapıları ve Algoritmalar Dersi - Insertion Sort Projesi
 
 ---
 
